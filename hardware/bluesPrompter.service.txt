@@ -1,0 +1,13 @@
+[Unit]
+Description=Start NPM and Firefox on boot
+After=network.target
+
+[Service]
+Type=simple
+User=mark
+ExecStartPre=/[userName]/bin/xinit
+ExecStart=/bin/bash -c 'cd /home/[userName]/Projects/BluesPrompter && npm run dev'
+ExecStartPost=/[userName]/bin/firefox http://localhost:5173
+
+[Install]
+WantedBy=default.target

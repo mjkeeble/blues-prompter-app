@@ -1,0 +1,37 @@
+                     
+/* TEAM */
+            
+Name: Mark J. Keeble
+Role: Project creator and manager               
+Site: www.keeble.de
+email: mark [at] keeble [dot] de
+github: https://github.com/mjkeeble                   
+Twitter: 
+Location: Berlin Area, Germany
+
+Name: 
+Role: 
+Site: 
+email: 
+github: 
+Twitter: 
+
+Name: 
+Role: 
+Site: 
+email: 
+github: 
+Twitter: 
+
+Name: 
+Role: 
+Site: 
+email: 
+github: 
+Twitter: 
+
+
+/* PROJECT */
+
+Last update: 21/03/2024
+Software: NodeJS, Vite, TypeScript, React, React Router, Prettier, ESLint, tailwindcss, Github

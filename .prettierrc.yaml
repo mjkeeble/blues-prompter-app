@@ -1,4 +1,8 @@
 singleQuote: true
 semi: false
 printWidth: 100
+tabWidth: 2
+bracketSpacing: true
 trailingComma: none
+endOfLone: lf
+plugins: ['prettier-plugin-tailwindcss']
